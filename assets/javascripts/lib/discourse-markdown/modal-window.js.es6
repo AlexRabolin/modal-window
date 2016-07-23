@@ -6,6 +6,4 @@ registerOption((siteSettings, opts) => {
 
 export function setup(helper) {
   helper.whiteList(['label[for]']);
-  helper.whiteList(['span[style]']);
-  helper.whiteList(['label[for]'])(['span[style]']);
 }
