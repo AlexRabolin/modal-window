@@ -149,16 +149,11 @@ padding: 20px 20px;
 
 <h4>Running the modal window</h4>
 <ul>
-<li>For runing the modal window outside the forum, just copy the HTML code where you want like that :</li></ul>
+<li>For runing the modal window outside or inside the forum, just copy the HTML code where you want like that :</li></ul>
 ```
 <label for="first-modal-window"><a>open the modal window</a></label>
 ```
-<ul>
-<li>For runing the modal window from a forum post, just copy the HTML code in the post :</li></ul>
-```
-<a href="#"><label for="first-modal-window"><span style="cursor:pointer">open the modal window</span></label></a>
 
-```
 <h4>Important</h4>
 <p>Create as many modal window as you like.</p>
 <p>But,must imperatively change the following three fields with the same name in each HTML modal window : 
